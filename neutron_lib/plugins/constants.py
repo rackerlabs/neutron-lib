@@ -29,3 +29,5 @@ PLACEMENT_REPORT = "placement_report"
 LOCAL_IP = "LOCAL_IP"
 
 NDPPROXY = 'NDPPROXY'
+
+EVPN = 'EVPN'
